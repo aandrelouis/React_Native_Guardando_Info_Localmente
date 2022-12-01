@@ -4,7 +4,7 @@
 O projeto foi desenvolvido durante do curso **React Native: guardando informações localmente** em que é feita uma aplicação em React Native que permite salvar e editar notas(lembretes) em um aplicativo, e depois deixar essas notas disponíveis  para consultas na tela do celular.
 
 
-![foto1](https://github.com/aandrelouis/React_Native_Guardando_Info_Localmente/blob/main/assets/foto1.png)
+![foto1](https://github.com/aandrelouis/React_Native_Guardando_Info_Localmente/blob/main/src/assets/foto1.png)
 
 <h4 align="center"> 
 	Alura Notes
